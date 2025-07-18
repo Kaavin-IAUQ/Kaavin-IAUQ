@@ -24,7 +24,7 @@ Our work spans from exploratory data analysis to machine learning, with a focus 
 - **Supervisor**: Dr. Mohammad Mahdi Behnam Mehr
 
 - **Core Members**:
-  - Ali Bozorgmehr  
+  - Reyhane Aalami  
   - Laya Jamshidi
   - Tahmine Tashakori
   - Helia Ramezani
